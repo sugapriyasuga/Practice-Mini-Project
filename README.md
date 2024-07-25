@@ -1,5 +1,5 @@
 # Practice-Mini-Project
-In this project using HTML. Basic mini project.
+In this project using HTML. Basic First mini project.(25/07/2024)
 
 HTML Project Application Form:
     In this project i'm creating a application form to collect a details and some more information about the person, And this form is for Job application form.
